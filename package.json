@@ -1,0 +1,17 @@
+{
+	"name": "@doctormckay/leastused-cache",
+	"version": "1.0.0",
+	"description": "A cache that purges least-used items",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DoctorMcKay/node-leastused-cache.git"
+	},
+	"author": "Alexander Corn <mckay@doctormckay.com>",
+	"bugs": {
+		"url": "https://github.com/DoctorMcKay/node-leastused-cache/issues"
+	},
+	"homepage": "https://github.com/DoctorMcKay/node-leastused-cache",
+	"engines": {
+		"node": ">=4.0.0"
+	}
+}
